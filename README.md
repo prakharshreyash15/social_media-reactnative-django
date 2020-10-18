@@ -1,6 +1,8 @@
 
 <h1 align = "Center">Social Media Project - React, Django</h1>
 
+***To protect our privacy, and we also want to use this social media for collecting donations for our orphan children's***
+
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
