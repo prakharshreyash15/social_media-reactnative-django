@@ -1,6 +1,10 @@
 
 <h1 align = "Center">Social Media Project - React, Django</h1>
 
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg)](https://forthebadge.com)
 
 ## Autumn of Open Source AOSS 2020
 <p align="center">
