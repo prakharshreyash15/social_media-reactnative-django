@@ -1,5 +1,5 @@
 
-<h1 align = "Center">Social Media Project</h1>
+<h1 align = "Center">Social Media Project - React, Django</h1>
 
 
 ## Autumn of Open Source AOSS 2020
